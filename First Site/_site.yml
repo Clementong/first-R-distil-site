@@ -4,9 +4,15 @@ description: |
   Visual Analytics Project
 output_dir: "_site"
 navbar:
+  left:
+    - text: "Projects"
+      menu:
+        - text: "Data Viz 1"
+          href: "Graph.html"
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "About Me"
+      href: "Clement.html"
+    - icon: fab fa-github
+      href: https://github.com/Clementong
+      
 output: distill::distill_article

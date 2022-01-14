@@ -1,10 +1,11 @@
 ---
-title: "About this site"
+title: "First Data Visualisation Project"
 description: |
-  Some additional details about the website
+  This project is to visualise 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 
